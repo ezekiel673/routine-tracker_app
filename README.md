@@ -23,7 +23,7 @@
 
 ## Live Demo
 
-Try out the live demo [here](https://ezekiel673.github.io/routine-tracker-app/).
+Try out the live demo [here](https://ezekiel673.github.io/routine-tracker_app/).
 
 ---
 
